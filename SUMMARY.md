@@ -1,3 +1,5 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [IAB驗證帳戶與權限設置辦法](chapter1.md)
+
