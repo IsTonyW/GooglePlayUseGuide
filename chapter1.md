@@ -1,6 +1,16 @@
 # IAB驗證帳戶與權限設置辦法
 
-\*參考資料\*
+This is a regular paragraph.
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+This is another regular paragraph.
+
+*參考資料*
 
 ### 使用Google Play Developer API讀取Google Play Store上APP的資訊
 
