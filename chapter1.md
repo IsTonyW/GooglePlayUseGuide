@@ -1,4 +1,4 @@
-# IAB驗證帳戶與權限設置辦法
+# In APP Purchases驗證帳戶與權限設置辦法
 適用對象：Google Play Developer Console帳戶擁有者(最高權限)
 
 操作步驟說明：
